@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Richness
+# 👋 Hi, I’m @Richness Olarinoye
 
 I'm a passionate software developer focused on building modern web applications and digital experiences that are fast, accessible, and user-friendly. I enjoy working on meaningful projects that solve real-world problems.
 
